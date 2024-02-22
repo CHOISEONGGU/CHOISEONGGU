@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Ben's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20BenChoi's%20GitHube%20render&fontSize=90)
 
 ![BenChoi's Github status](https://github-readme-stats.vercel.app/api?
 username=CHOISEONGGU&include_all_commits=true&show_icons=true&theme=cobalt)]
